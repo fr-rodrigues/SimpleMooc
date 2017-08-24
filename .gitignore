@@ -1,0 +1,4 @@
+__pycache__
+media/courses/*.*
+media/lessons/*.*
+*.pyc
